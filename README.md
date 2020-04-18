@@ -8,3 +8,4 @@ Deep Learning tutorial using Tensorflow 2 and Keras
 
 # Book
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+- https://github.com/ageron/handson-ml2
