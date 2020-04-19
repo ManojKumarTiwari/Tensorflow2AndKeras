@@ -1,6 +1,9 @@
 # Tensorflow2AndKeras
 Deep Learning tutorial using Tensorflow 2 and Keras
 
+# Contents
+## RNN
+
 # References
 # Youtube
 - KGP Talkie - Tensorflow 2.0 tutorials for begineers
