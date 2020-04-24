@@ -3,7 +3,7 @@ Deep Learning tutorial using Tensorflow 2 and Keras
 
 # TO DOs:
 - All the incomplete excercies
-- Need to complete Seq2Seq implemtation from the book
+- Redo Everything from "Forecasting" in chapter 15 from the book and modify files 4_3 and 4_4 accordingly
 
 # Contents
 ## RNN
