@@ -1,6 +1,10 @@
 # Tensorflow2AndKeras
 Deep Learning tutorial using Tensorflow 2 and Keras
 
+# TO DOs:
+- All the incomplete excercies
+- Need to complete Seq2Seq implemtation from the book
+
 # Contents
 ## RNN
 
