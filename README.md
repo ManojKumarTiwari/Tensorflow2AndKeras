@@ -14,8 +14,8 @@ Deep Learning tutorial using Tensorflow 2 and Keras
 - https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 # Youtube
-- (MIT 6.S191: Introduction to Deep Learning)[https://www.youtube.com/watch?v=SEnXr6v2ifU&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2]
-- (KGP Talkie - Tensorflow 2.0 tutorials for begineers)[https://www.youtube.com/watch?v=nVvhkVLh60o&list=PLc2rvfiptPSR3iwFp1VHVJFK4yAMo0wuF&index=1]
+- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/watch?v=SEnXr6v2ifU&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2)
+- [KGP Talkie - Tensorflow 2.0 tutorials for begineers](https://www.youtube.com/watch?v=nVvhkVLh60o&list=PLc2rvfiptPSR3iwFp1VHVJFK4yAMo0wuF&index=1)
 
 # Book
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
